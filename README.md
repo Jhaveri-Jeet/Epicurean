@@ -1,5 +1,8 @@
 # Epicurean Pizza Restaurant Website
 
+![Screenshot 2024-03-29 022900](https://github.com/Jhaveri-Jeet/Epicurean/assets/114752089/ed93562a-c05e-4215-b7e2-36e80051ad93)
+
+
 Welcome to the Epicurean Pizza Restaurant website repository. This project is developed using ASP.NET and provides a platform for users to view the menu, place orders, and track their status. Additionally, administrators can perform CRUD operations on the menu, feedback, and contact information.
 
 ## Features
