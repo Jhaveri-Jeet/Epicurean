@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|d:\\jeet jhaveri\\projects\\.net\\epicurean\\adminpages\\product\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:adminpages\\product\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminpages\\product\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:adminpages\\product\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminpages\\role\\update-role.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:adminpages\\role\\update-role.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminpages\\product\\update-product.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:adminpages\\product\\update-product.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminpages\\product\\update-product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:adminpages\\product\\update-product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminpages\\role\\update-role.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:adminpages\\role\\update-role.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminpages\\category\\update-category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:adminpages\\category\\update-category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\utils\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:utils\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:pages\\main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:pages\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:pages\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:pages\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\faq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E703EE1C-C31D-40EC-80C9-6496498D8C6C}|epicurean.csproj|solutionrelative:pages\\faq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.aspx.cs",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\product\\product.aspx.cs",
+              "RelativeDocumentMoniker": "adminPages\\product\\product.aspx.cs",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\product\\product.aspx.cs",
+              "RelativeToolTip": "adminPages\\product\\product.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:05:28.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "product.aspx",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\product\\product.aspx",
+              "RelativeDocumentMoniker": "adminPages\\product\\product.aspx",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\product\\product.aspx",
+              "RelativeToolTip": "adminPages\\product\\product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-16T15:04:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "update-product.aspx.cs",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\product\\update-product.aspx.cs",
+              "RelativeDocumentMoniker": "adminPages\\product\\update-product.aspx.cs",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\product\\update-product.aspx.cs",
+              "RelativeToolTip": "adminPages\\product\\update-product.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:26:10.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "update-product.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\product\\update-product.aspx.designer.cs",
+              "RelativeDocumentMoniker": "adminPages\\product\\update-product.aspx.designer.cs",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\product\\update-product.aspx.designer.cs",
+              "RelativeToolTip": "adminPages\\product\\update-product.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:26:08.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "update-role.aspx.cs",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\role\\update-role.aspx.cs",
+              "RelativeDocumentMoniker": "adminPages\\role\\update-role.aspx.cs",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\role\\update-role.aspx.cs",
+              "RelativeToolTip": "adminPages\\role\\update-role.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:25:58.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "update-role.aspx",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\role\\update-role.aspx",
+              "RelativeDocumentMoniker": "adminPages\\role\\update-role.aspx",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\role\\update-role.aspx",
+              "RelativeToolTip": "adminPages\\role\\update-role.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-16T14:25:54.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "update-category.aspx.cs",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\category\\update-category.aspx.cs",
+              "RelativeDocumentMoniker": "adminPages\\category\\update-category.aspx.cs",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\adminPages\\category\\update-category.aspx.cs",
+              "RelativeToolTip": "adminPages\\category\\update-category.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:16:49.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "service.cs",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\utils\\service.cs",
+              "RelativeDocumentMoniker": "utils\\service.cs",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\utils\\service.cs",
+              "RelativeToolTip": "utils\\service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAC2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:15:18.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.aspx",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\index.aspx",
+              "RelativeDocumentMoniker": "index.aspx",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\index.aspx",
+              "RelativeToolTip": "index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T18:43:31.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-04T18:43:29.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.Master",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\main.Master",
+              "RelativeDocumentMoniker": "pages\\main.Master",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\main.Master",
+              "RelativeToolTip": "pages\\main.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T18:42:33.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-04T18:41:48.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "faq.aspx",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\faq.aspx",
+              "RelativeDocumentMoniker": "pages\\faq.aspx",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\faq.aspx",
+              "RelativeToolTip": "pages\\faq.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T18:24:48.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "contact.aspx",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\contact.aspx",
+              "RelativeDocumentMoniker": "pages\\contact.aspx",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\contact.aspx",
+              "RelativeToolTip": "pages\\contact.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T18:24:41.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "about.aspx",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\about.aspx",
+              "RelativeDocumentMoniker": "pages\\about.aspx",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\about.aspx",
+              "RelativeToolTip": "pages\\about.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T18:24:30.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "menu.aspx",
+              "DocumentMoniker": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\menu.aspx",
+              "RelativeDocumentMoniker": "pages\\menu.aspx",
+              "ToolTip": "D:\\Jeet Jhaveri\\Projects\\.Net\\epicurean\\pages\\menu.aspx",
+              "RelativeToolTip": "pages\\menu.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T18:24:08.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\epicurean.dll.config
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\epicurean.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\epicurean.pdb
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\csc.exe
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\csc.exe.config
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\csc.rsp
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\csi.exe
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\csi.exe.config
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\csi.rsp
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.AppContext.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Collections.Immutable.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Console.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Globalization.Calendars.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.IO.Compression.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.IO.FileSystem.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Net.Http.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Net.Sockets.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Reflection.Metadata.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.ValueTuple.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Xml.XPath.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\vbc.exe
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\vbc.exe.config
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\vbc.rsp
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\VBCSCompiler.exe
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\roslyn\VBCSCompiler.exe.config
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Jeet Jhaveri\Projects\.Net\epicurean\obj\Debug\epicurean.csproj.AssemblyReference.cache
+D:\Jeet Jhaveri\Projects\.Net\epicurean\obj\Debug\epicurean.csproj.CoreCompileInputs.cache
+D:\Jeet Jhaveri\Projects\.Net\epicurean\obj\Debug\epicurean.csproj.Up2Date
+D:\Jeet Jhaveri\Projects\.Net\epicurean\obj\Debug\epicurean.dll
+D:\Jeet Jhaveri\Projects\.Net\epicurean\obj\Debug\epicurean.pdb
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\epicurean.dll.config
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\epicurean.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\epicurean.pdb
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\csc.exe
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\csc.exe.config
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\csc.rsp
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\csi.exe
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\csi.exe.config
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\csi.rsp
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.AppContext.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Console.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.IO.Compression.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Net.Http.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Net.Sockets.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.ValueTuple.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\vbc.exe
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\vbc.exe.config
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\vbc.rsp
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\VBCSCompiler.exe
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\obj\Debug\epicurean.csprojAssemblyReference.cache
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\obj\Debug\epicurean.csproj.CoreCompileInputs.cache
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\obj\Debug\epicurean.csproj.CopyComplete
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\obj\Debug\epicurean.dll
+C:\Users\KHUSHAL\Downloads\epicurean\epicurean\obj\Debug\epicurean.pdb

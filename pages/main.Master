@@ -1,0 +1,280 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="epicurean.pages.main" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<meta
+    http-equiv="content-type"
+    content="text/html;charset=UTF-8" />
+<head>
+    <meta charset="UTF-8" />
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <title>Epicurean - Food & Restaurant</title>
+
+    <link
+        rel="icon"
+        href="/assets/images/fav.png"
+        type="image/gif"
+        sizes="20x20" />
+
+    <!-- Box Icon CSS -->
+    <link rel="stylesheet" href="/assets/css/boxicons.min.css" />
+    <!-- Bootstrap Icon CSS -->
+    <link rel="stylesheet" href="/assets/css/bootstrap-icons.css" />
+    <!-- Swiper Carousel CSS -->
+    <link rel="stylesheet" href="/assets/css/swiper-bundle.min.css" />
+    <!-- Wow CSS -->
+    <link rel="stylesheet" href="/assets/css/animate.css" />
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" href="/assets/css/magnific-popup.css" />
+    <!-- Odometer CSS -->
+    <link rel="stylesheet" href="/assets/css/odometer.css" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+    <!-- Meanmenu CSS -->
+    <link rel="stylesheet" href="/assets/css/meanmenu.min.css" />
+    <!-- Meanmenu CSS -->
+    <link rel="stylesheet" href="/assets/css/YouTubePopUp.css" />
+    <!-- Select2 CSS -->
+    <link rel="stylesheet" href="/assets/css/select2.css" />
+    <!-- Datepicker CSS -->
+    <link rel="stylesheet" href="/assets/css/datepicker.css" />
+    <!-- Jquery UI CSS -->
+    <link rel="stylesheet" href="/assets/css/jquery-ui.css" />
+
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+    <!-- Custom Cursor -->
+
+    <div class="cursor d-none d-lg-block"></div>
+
+    <!-- Custom Cursor End -->
+
+    <!-- Preloader -->
+
+    <div class="preloader">
+        <div class="spinner-wrap">
+            <div class="preloader-logo">
+                <img src="/assets/images/preloader.svg" alt="" class="img-fluid" />
+            </div>
+            <div class="spinner"></div>
+        </div>
+    </div>
+
+    <!-- Preloader End -->
+
+    <!-- back to to button start-->
+    <a href="#" id="scroll-top" class="back-to-top-btn"><i class="bi bi-arrow-up"></i></a>
+    <!-- back to to button end-->
+
+    <!-- Header area -->
+
+    <div class="site-wrapper">
+        <header>
+            <!-- Menu -->
+
+            <div class="menu-area menu-area-two">
+                <div class="container">
+                    <div class="row align-items-center gy-4">
+                        <div class="col-lg-5 d-none d-lg-block">
+                            <div class="mainmenu">
+                                <ul>
+                                    <li><a href="/index">Home</a></li>
+                                    <li><a href="menu">Menu</a></li>
+                                    <li><a href="about">About</a></li>
+                                    <li><a href="faq">Faq</a></li>
+                                    <li><a href="contact">Contact</a></li>
+                                </ul>
+                                <div class="menu-btn-wrap flex-shrink-0 d-lg-none pb-5">
+                                    <% if (Session["user"] != "true")
+                                        { %>
+                                    <a class="sign-btn common-btn mt-4" href="/pages/login">
+                                        <i class="bi bi-person-circle"></i>
+                                        <span>Sign in</span>
+                                    </a>
+                                    <% }
+                                        else
+                                        { %>
+                                    <a class="sign-btn common-btn mt-4" href="/pages/logOut">
+                                        <i class="bi bi-box-arrow-right"></i>
+                                        <span>Log Out</span>
+                                    </a>
+                                    <% }%>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-12">
+                            <div class="menu-logo-wrap text-center">
+                                <a href="/index">
+                                    <img src="/assets/images/logo-two.svg" alt="" /></a>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 hamburger-menu position-relative col-md-12">
+                            <div
+                                class="d-flex menu-info-item align-items-center justify-content-lg-end">
+                                <div class="menu-meta d-flex align-items-center">
+                                    <a class="cart-icon order-lg-2 cart-toggle" href="./cart"><i class="bi bi-cart3"></i></a>
+                                    <a class="cart-icon order-lg-2 cart-toggle" href="./orders"><i class="bi bi-sort-up"></i></a>
+                                </div>
+                                <div class="menu-btn-wrap flex-shrink-0 d-none d-lg-block">
+                                    <% if (Session["user"] != "true")
+                                        { %>
+                                    <a class="common-btn sign-btn" href="/pages/login">
+                                        <i class="bi bi-person-circle"></i>
+                                        <span>Sign in</span>
+                                    </a>
+                                    <% }
+                                        else
+                                        { %>
+                                    <a class="common-btn sign-btn" href="/pages/logOut">
+                                        <i class="bi bi-box-arrow-right"></i>
+                                        <span>Log Out</span>
+                                    </a>
+                                    <% } %>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Breadcrumb End -->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <div class="footer-area">
+            <div class="container">
+                <div class="row justify-content-between copyright-wrap">
+                    <div class="col-lg-2 col-md-6">
+                        <div class="footer-box">
+                            <h2 class="h2 text-white footer-title">Product</h2>
+                            <ul class="footer-list custom-ul">
+                                <li><a href="#">Breakfast</a></li>
+                                <li><a href="#">Lunch</a></li>
+                                <li><a href="#">Desserts</a></li>
+                                <li><a href="#">Dinner</a></li>
+                                <li><a href="#">Book a table</a></li>
+                                <li><a href="#">Our Chefs</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6">
+                        <div class="footer-box">
+                            <h2 class="h2 text-white footer-title">Information</h2>
+                            <ul class="footer-list custom-ul">
+                                <li><a href="faq.html">FAQ</a></li>
+                                <li><a href="blog-standard.html">Blog</a></li>
+                                <li><a href="contact-01.html">Support</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6">
+                        <div class="footer-box">
+                            <h2 class="h2 text-white footer-title">Company</h2>
+                            <ul class="footer-list custom-ul">
+                                <li><a href="about.html">About us</a></li>
+                                <li><a href="reservation.html">Our Menu</a></li>
+                                <li><a href="contact-01.html">Contact us</a></li>
+                                <li><a href="index.html">Epicurean</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-6">
+                        <div class="footer-box">
+                            <div class="footer-subscribe">
+                                <div class="footer-subscribe-img position-relative">
+                                    <img
+                                        class="w-100"
+                                        src="assets/images/footer-subscribe-bg.png"
+                                        alt="" />
+                                    <div
+                                        class="section-title ps-4 position-absolute top-50 start-50 translate-middle w-100">
+                                        <span class="text-white">Subscribe</span>
+                                        <h2 class="mt-2 text-white">Our News letter</h2>
+                                        <p class="mt-3 text-white">To Get Regular Update</p>
+                                    </div>
+                                </div>
+                                <form
+                                    class="footer-subscribe-form mt-4 d-flex justify-content-between align-items-center"
+                                    action="#">
+                                    <input
+                                        class="w-100 border-0 h-100 ps-3 pe-3"
+                                        type="email"
+                                        placeholder="Enter your mail" />
+                                    <button
+                                        class="common-btn h-100 flex-shrink-0 border-0 border-radius-0 ms-lg-4 ms-2"
+                                        type="submit">
+                                        <span>Subscribe</span>
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center mt-4">
+                    <div class="col-lg-4 text-center text-lg-start">
+                        <a class="footer-logo" href="index.html">
+                            <img src="assets/images/logo-two.svg" alt="" /></a>
+                    </div>
+                    <div class="col-lg-4">
+                        <ul
+                            class="footer-menu custom-ul d-flex justify-content-center mt-3 mb-3 mt-lg-0 mb-lg-0">
+                            <li><a href="#">Terms</a></li>
+                            <li><a href="#">Privacy</a></li>
+                            <li><a href="#">Cookies</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <ul
+                            class="custom-ul social-list chefs-social-list d-flex justify-content-center justify-content-lg-end align-items-center">
+                            <li>
+                                <a href="#"><i class="bx bxl-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="bx bxl-linkedin"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="bx bxl-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer End -->
+    </div>
+
+    <!-- Jquery JS -->
+    <script src="/assets/js/jquery-3.7.1.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+    <!-- Swiper Carousel JS -->
+    <script src="/assets/js/swiper-bundle.min.js"></script>
+    <!-- Magnific Popup JS -->
+    <script src="/assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Wow JS -->
+    <script src="/assets/js/wow.min.js"></script>
+    <!-- Odometer JS -->
+    <script src="/assets/js/odometer.min.js"></script>
+    <script src="/assets/js/viewport.jquery.js"></script>
+    <!-- Mean menu JS -->
+    <script src="/assets/js/jquery.meanmenu.min.js"></script>
+    <!-- YouTubePopUp JS -->
+    <script src="/assets/js/YouTubePopUp.js"></script>
+    <!-- Datepicker JS -->
+    <script src="/assets/js/datepicker.js"></script>
+    <!-- Select2 JS -->
+    <script src="/assets/js/select2.js"></script>
+    <!-- Jquery UI JS -->
+    <script src="/assets/js/jquery-ui.min.js"></script>
+    <!-- Main JS -->
+    <script src="/assets/js/main.js"></script>
+</body>
+
+<!-- Mirrored from epicurean.netlify.app/epicurean/food-menu-02 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2024 17:39:04 GMT -->
+</html>
